@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #f5f5f5;
+}
+.div-container {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  gap: 20px;
+}
+
+.fila-btn {
+  display: flex;
+  padding: 5px;
+  gap: 10px;
+}
+
+.stats-container {
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+h1,
+h2 {
+  padding: 5px;
+}
